@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com"><img width="400px" src="https://wakatime.com/share/@3afd2d0c-ab30-4f97-a25e-1deac01d9834/9c5d2ff3-7ce2-4b0c-b63e-b4f4c8d2bfb7.png"  align="left" /></a>
+<a href="https://wakatime.com"><img width="450px" src="https://wakatime.com/share/@3afd2d0c-ab30-4f97-a25e-1deac01d9834/9c5d2ff3-7ce2-4b0c-b63e-b4f4c8d2bfb7.png"  align="left" /></a>
 
-<img width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" align="center" alt="GitHub Readme Stats" />
+<img width="450px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" align="center" alt="GitHub Readme Stats" />
 </p>

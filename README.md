@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmss1995" alt="mmss1995" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs, AEM, JAVA, React**
+- 🌱 I’m currently learning **MicroFrontend, ModuleFederation**
 
 - 💬 Ask me about **VueJS, ES6**
 

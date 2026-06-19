@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matteo Susto</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mmss1995&label=Profile%20views&color=0e75b6&style=flat-square" alt="mmss1995" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmss1995" alt="mmss1995" /></a> </p>
 
 - 🌱 I’m currently learning **MicroFrontend, ModuleFederation**
